@@ -1,0 +1,18 @@
+Buenas, Victor.
+
+Nos hemos reunido este fin de semana para profundizar más sobre el diseño del proyecto y para establecer los puntos claves y los deathlines.
+
+En la "Hoja de ruta" está la repartición del trabajo, las fechas marcadas y los bloques de trabajo.
+
+Los programadores nos hemos repartido primero lo básico para tener un juego y nos hemos puesto de plazo para tener eso 2 semanas. 
+Tras estas dos semanas trabajaremos en upgrades y optimización del juego.
+
+Hemos creado este repositorio para subir todos los cambios que vayamos haciendo y hemos creado el proyecto (5.2.0v) dentro de la carpeta repositorio. 
+De momento solo hemos creado el proyecto vacío.
+
+Disponemos de casi todos los assets y esta semana nos encargaremos también de subir todos los assets al repositorio.
+
+Los diseñadores se encargarán del level design y de encontrar los assets y props que nos faltan.
+
+Un saludo.
+Zalgo y Tomás.
